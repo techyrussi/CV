@@ -1,0 +1,19 @@
+hr{
+  display: block;
+  }
+
+body{
+  background-color: #FFF7E9
+}
+
+h2{
+  background-color: #2192FF;
+  border:#2192FF;
+  border-width:5px;
+  border-style:solid;
+  width: 9%
+}
+
+a:link{
+  text-decoration: none;
+}
