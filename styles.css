@@ -1,19 +1,33 @@
 hr{
   display: block;
+  border-top:10px dotted red;
+  border-left: 0cm;
+  border-right:0cm;
+  border-right:0cm;
+  border-bottom:0cm;
+  width: 5%;
   }
 
 body{
   background-color: #FFF7E9
 }
 
-h2{
-  background-color: #2192FF;
-  border:#2192FF;
-  border-width:5px;
-  border-style:solid;
-  width: 9%
-}
-
 a:link{
   text-decoration: none;
+}
+
+body{
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
 }
